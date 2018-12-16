@@ -1,0 +1,10 @@
+{
+  "name": "@types/acceptjs",
+  "version": "1.0.0",
+  "description": "Types for Accept.js",
+  "main": "index.js",
+  "author": "Jeremy Allard",
+  "license": "MIT",
+  "types": "acceptjs.d.ts",
+  "private": false
+}
